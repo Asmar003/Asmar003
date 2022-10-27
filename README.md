@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Asmar Jafarova</h1>
 <h3 align="center">I study at Azerbaijan Technical University</h3>
 
+🔭 I’m currently working on Code Academy
+
+🌱 I’m currently learning Back-End Developer
+
+📫 How to reach me esmer.ceferova24@gmail.com
+
+⚡ Fun fact I love action games <3
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asmar jafarova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmar jafarova" height="30" width="40" /></a>
